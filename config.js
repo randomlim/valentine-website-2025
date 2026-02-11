@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "Que tanto me amas?❤️",                          // For the love meter
-            startText: "Muchisiimoo❤️",                                   // Text before the percentage
+            startText: "Muchoooo❤️",                                   // Text before the percentage
             nextBtn: "Siguiente❤️"                                         // Text for the next button
         },
         third: {
@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "De verdad me amas tanto gordita??🥰💝",  // Shows when they go past 5000%
-        high: "Yo te amo muchisimo a vos mi princesa🌷💗",              // Shows when they go past 1000%
-        normal: "Te amo tanto nunca te vayas my love!🥺❤️"                           // Shows when they go past 100%
+        extreme: "Yo te amo muchisimo mas a vos mi princesa🌷💗",  // Shows when they go past 5000%
+        high: "De verdad me amas tanto gordita?😭💗",              // Shows when they go past 1000%
+        normal: "Te amo tanto inmensamente🥺❤️"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
